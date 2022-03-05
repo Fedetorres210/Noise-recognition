@@ -30,5 +30,5 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 - McFee, Brian, Colin Raffel, Dawen Liang, Daniel PW Ellis, Matt McVicar, Eric Battenberg, and Oriol Nieto. “librosa: Audio and music signal analysis in python.” In Proceedings of the 14th python in science conference, pp. 18-25. 2015.
 - Justin Salomon -  <jpbello@nyu.edu>
 - Fairbrass, Alison (2018): CitySounds2017train audio files. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5886532.v1 
-
+- Rodríguez, Yohanna; Ballesteros L, Dora Maria; Renza, Diego (2019), “Fake voice recordings (Imitation)”, Mendeley Data, V1, doi: 10.17632/ytkv9w92t6.1
 
