@@ -14,6 +14,7 @@ def read_audio(file):
 def record(duration=5, fs=48000):
     sd.default.samplerate = fs
     sd.default.channels = 1
+    sd.default.device = 0
     myrecording = sd.rec(int(duration * fs))
     sd.wait(duration)
     return myrecording
