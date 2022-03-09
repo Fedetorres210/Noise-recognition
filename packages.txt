@@ -3,7 +3,6 @@ freeglut3-dev
 libgtk2.0-dev
 libasound2-dev
 libsndfile1-dev
-libportaudio-dev
 ffmpeg
 build-essential
 portaudio19-dev
