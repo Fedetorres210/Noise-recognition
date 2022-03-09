@@ -1,4 +1,4 @@
-from cProfile import label
+
 import streamlit as st
 import numpy as np
 from audio import record, save_record, labeling, read_audio
