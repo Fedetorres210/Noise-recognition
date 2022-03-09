@@ -33,13 +33,13 @@ def extractor(file):
 
 
 label = {0: 'dog_bark',
-            1: 'children_playing',
-            2: 'car_horn',
-            3: 'air_conditioner',
-            4: 'street_music',
-            5: 'gun_shot',
+            1: 'children playing',
+            2: 'car horn',
+            3: 'air conditioner',
+            4: 'street music',
+            5: 'gun shot',
             6: 'siren',
-            7: 'engine_idling',
+            7: 'engine idling',
             8: 'jackhammer',
             9: 'drilling',
             10: 'Background'}
