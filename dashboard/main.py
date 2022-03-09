@@ -5,7 +5,7 @@ import sounddevice as sd
 from audio import record, save_record, labeling, read_audio
 
 st.title("Noise Recognition project")
-
+st.camera_input("Take a picture")
 
 #filename = st.text_input("Chosse a name for your file")
 st.text(sd.query_devices())
