@@ -15,7 +15,7 @@ if page == 'Information':
     st.text("that is capable of recognizing the different sounds in an environment.")
     st.subheader("Quick explanation")
 
-    st.image("./images/diagram.png")
+    st.image("dashboard/images/diagram.png")
 
 
 
