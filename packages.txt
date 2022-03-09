@@ -5,3 +5,5 @@ libasound2-dev
 libsndfile1-dev
 libportaudio-dev
 ffmpeg
+build-essential
+portaudio19-dev
