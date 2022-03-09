@@ -1,6 +1,6 @@
 import tensorflow.keras as tf
 
-model = tf.models.load_model(r'./my_model/')
+model = tf.models.load_model(r'dashboard/my_model/')
 
 
 
