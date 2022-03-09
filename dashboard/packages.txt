@@ -1,0 +1,5 @@
+update && apt-get upgrade -y -o Dpkg::Options::="--force-confold"
+-y apt-utils
+-y libsndfile1
+-y libportaudio2
+autoremove
