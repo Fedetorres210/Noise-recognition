@@ -63,19 +63,23 @@ The CitySounds2017train dataset comprising 1100 1-minute .wav audio files record
 ###  Important Libraries
 ---
 #### **Librosa**
-![](https://librosa.org/doc/latest/_static/librosa_logo_text.svg)
+![]()
+<img src=https://librosa.org/doc/latest/_static/librosa_logo_text.svg width=220>
 
 [librosa](https://librosa.org/doc/latest/index.html) is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 
 ---
 #### **TensorFlow**
-![](https://www.gstatic.com/devrel-devsite/prod/v2484c9574f819dcf3d7ffae39fb3001f4498b2ece38cec22517931d550e19e7d/tensorflow/images/lockup.svg)
+![]()
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2484c9574f819dcf3d7ffae39fb3001f4498b2ece38cec22517931d550e19e7d/tensorflow/images/lockup.svg" width="320">
+
 [TensorFlow](https://www.tensorflow.org/api_docs/python/tf) is an end-to-end open source platform for machine learning
 
 ---
 #### **Keras**
 
-![](https://keras.io/img/logo.png)
+![]()
+<img src="https://keras.io/img/logo.png" width= "320">
 
 [Keras](https://www.tensorflow.org/guide/keras?hl=es-419) is TensorFlow's high-level API for building and training deep learning models. It is used for rapid prototyping, cutting-edge (state-of-the-art) research, and in production.
 
@@ -89,11 +93,14 @@ The CitySounds2017train dataset comprising 1100 1-minute .wav audio files record
 
 ---
 #### **Streamlit**
-![](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
+![]()
+<img src =https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png width=280>
+
 [Streamlit](https://docs.streamlit.io/) is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
 
 #### **Numpy**
-![](https://numpy.org/doc/stable/_static/numpylogo.svg)
+![]()
+<img src=https://numpy.org/doc/stable/_static/numpylogo.svg width= 320>
 
 [Numpy](https://numpy.org/doc/stable/) is the fundamental package for scientific computing with Python
 
